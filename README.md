@@ -1,6 +1,8 @@
 # Introduction-to-Databases
 COSC304 - Dr.Ramon Lawrence - UBC
 
+Thank you for make it online!
+
 From
 
 https://github.com/rlawrenc/cosc_304
