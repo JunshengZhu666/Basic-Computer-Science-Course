@@ -1,7 +1,20 @@
-# Introduction-to-Databases
-COSC304 - Dr.Ramon Lawrence - UBC
+=========================================================
+=========================================================
+# Great Ideas in Computer Architecture (Lecture Done, Exercise not done)
 
-Thank you for make it online!
+CS61C - Stephan Kaminsky, Sean Farhat, Jenny Song
+
+From
+
+https://inst.eecs.berkeley.edu/~cs61c/su20/
+
+https://www.bilibili.com/video/BV1PV411U7Hv?p=31
+
+=========================================================
+=========================================================
+# Introduction-to-Databases (Lecture Done, Exercise Done) 
+
+COSC304 - Dr.Ramon Lawrence - UBC
 
 From
 
@@ -62,15 +75,13 @@ Lec19: Data Wasehouse
 
 2, Lab exercise 
 
-================================================================================
-
 From
 
 https://www.bilibili.com/video/BV1UE41147KC?p=45&spm_id_from=pageDriver
 
 https://codewithmosh.com/p/complete-sql-mastery
 
-1, MySQL 
+
 
 
 
