@@ -1,6 +1,18 @@
 =========================================================
 =========================================================
-# Great Ideas in Computer Architecture (Lecture Done, Exercise not done)
+# Computer networks
+
+COMPSCI453 Prof. Jim Kurose
+
+From
+
+http://gaia.cs.umass.edu/kurose_ross/index.php
+
+https://www.bilibili.com/video/BV1mb4y1d7K7/?spm_id_from=333.788.recommend_more_video.1
+
+=========================================================
+=========================================================
+# Great Ideas in Computer Architecture 
 
 CS61C - Stephan Kaminsky, Sean Farhat, Jenny Song
 
@@ -12,7 +24,7 @@ https://www.bilibili.com/video/BV1PV411U7Hv?p=31
 
 =========================================================
 =========================================================
-# Introduction-to-Databases (Lecture Done, Exercise Done) 
+# Introduction-to-Databases 
 
 COSC304 - Dr.Ramon Lawrence - UBC
 
